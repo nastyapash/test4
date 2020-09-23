@@ -16,6 +16,13 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+button:active, button:focus {
+  outline: none;
+}
+button::-moz-focus-inner {
+  border: 0;
+}
+
 .head {
   position: fixed;
   top: 0;
