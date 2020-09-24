@@ -206,7 +206,7 @@ button::-moz-focus-inner {
     top: 65px;
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 560px) {
   .head .head-menu-burger {
     top: 42px;
   }
@@ -957,7 +957,7 @@ button::-moz-focus-inner {
   padding: 60px 70px;
   position: relative;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1020px) {
   .footer {
     -ms-flex-direction: column;
     flex-direction: column;
