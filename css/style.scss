@@ -260,7 +260,7 @@ button::-moz-focus-inner {
       top: 65px;
     }
 
-    @include xs {
+    @include sm {
       top: 42px;
     }
   }
@@ -970,7 +970,7 @@ button::-moz-focus-inner {
   padding: 60px 70px;
   position: relative;
 
-  @include xl {
+  @include lg {
     -ms-flex-direction: column;
     flex-direction: column;
     align-items: center;
